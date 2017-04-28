@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+acipra.zip
+sorgenti\
+vendor\
+
 # =========================
 # Operating System Files
 # =========================
@@ -46,6 +50,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-acipra.zip
-sorgenti\
-vendor\
+
