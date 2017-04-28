@@ -18,8 +18,7 @@ $RECYCLE.BIN/
 *.lnk
 
 acipra.zip
-sorgenti\
-vendor\*
+vendor/
 
 # =========================
 # Operating System Files
